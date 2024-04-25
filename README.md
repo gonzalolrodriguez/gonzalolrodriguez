@@ -1,5 +1,5 @@
 # 💫 About Me:
-### ¡Hola, mundo! 👋<br><br>Soy un estudiante de Análisis y Diseño de Software. 🚀<br><br>- 🔭 Estoy trabajando en proyectos personales y de la universidad.<br>- 🌱 Aprendiendo sobre **Diseño Web Responsivo**, **BBDD** y **Workflows**.<br>- 💬 Pregúntame sobre **HTML**, , **CSS** Y **JavaScript**.<br>- 📫 Cómo contactarme: gonzalo.rodriguez677@gmail.com<br>- ⚡ Curiosidad: ¡Me gusta resolver problemas y compartir conocimientos con la comunidad!<br>
+### ¡Hola, mundo! 👋<br><br>Soy  estudiante de Análisis y Diseño de Software. 🚀<br><br>- 🔭 Estoy trabajando en proyectos personales y de la universidad.<br>- 🌱 Aprendiendo sobre **Diseño Web Responsivo**, **BBDD** y **Workflows**.<br>- 💬 Pregúntame sobre **HTML**, , **CSS** Y **JavaScript**.<br>- 📫 Cómo contactarme: gonzalo.rodriguez677@gmail.com<br>- ⚡ Curiosidad: ¡Me gusta resolver problemas y compartir conocimientos con la comunidad!<br>
 
 
 # 💻 Tech Stack:
